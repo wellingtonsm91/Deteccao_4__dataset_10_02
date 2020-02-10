@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>142.jpg</filename>
+	<path>C:\Users\wellington\Desktop\Dataset_novo_Dedicado_10_02\data\images\142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>21</ymin>
+			<xmax>555</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
